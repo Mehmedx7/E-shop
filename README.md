@@ -12,9 +12,9 @@ A powerful e-commerce platform built using the Django framework.
 - Seamless payment integrations
 - Intuitive backend management system
 
-![Alt text](Screenshot 2023-02-12 104232.png)
-![Alt text](Screenshot 2023-02-12 104322.png)
-![Alt text](Screenshot 2023-02-12 104401.png)
+![Alt text](1.png)
+![Alt text](2.png)
+![Alt text](3.png)
 
 ## Getting Started
 
